@@ -1,0 +1,6 @@
+(executable
+ (public_name mysite)
+ (name main)
+ (libraries 
+  ocsigenserver
+  ocsigenserver.ext.staticmod))

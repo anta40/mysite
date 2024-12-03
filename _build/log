@@ -1,0 +1,16 @@
+# dune exec mysite
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/andretampubolon/.cache/dune/db
+# Workspace root: /Users/andretampubolon/Codes/OCaml/mysite
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/andretampubolon/.opam/5.2.0-flambda/bin/ocamlc.opt -config > /tmp/dune_dfbb9a_output
